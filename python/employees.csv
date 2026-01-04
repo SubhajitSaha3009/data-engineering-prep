@@ -1,0 +1,6 @@
+emp_id,name,department,salary,location
+101,Rahul,IT,85000,Bangalore
+102,Anita,HR,65000,Pune
+103,Sunil,IT,,Bangalore
+104,Priya,Finance,92000,Mumbai
+105,Amit,IT,78000,

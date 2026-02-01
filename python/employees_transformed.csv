@@ -1,4 +1,4 @@
 emp_id,name,department,salary,location,is_high_earner
 101,Rahul,IT,85000,Bangalore,True
 103,Sunil,IT,0,Bangalore,False
-105,Amit,IT,78000,Unknown,False
+105,Amit,IT,78000,My Location,False
